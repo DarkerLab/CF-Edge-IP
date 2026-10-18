@@ -1,5 +1,1 @@
 ACE CDN: AS13941
-
-AT&T家宽: AS7018
-
-Comcast Xfinity家宽: AS7922
