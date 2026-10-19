@@ -1,0 +1,271 @@
+﻿IP地址,端口号,数据中心,ASN组织,下载速度,网络延迟,出站IP,源IP位置,地区,城市,ASN号码
+43.168.16.67,443,HKG,ACE,57.41MB/s,52ms,43.152.23.155,HK,Asia Pacific,Hong Kong,AS139341
+43.159.4.43,443,HKG,"Tencent Building, Kejizhongyi Avenue",56.21MB/s,52ms,43.132.233.49,HK,Asia Pacific,Hong Kong,AS132203
+177.2.22.136,443,HKG,Prime Security Corp.,55.56MB/s,52ms,177.2.22.136,HK,Asia Pacific,Hong Kong,AS400618
+43.175.131.30,443,HKG,ACE,55.18MB/s,52ms,43.168.146.243,HK,Asia Pacific,Hong Kong,AS139341
+43.175.131.207,443,HKG,ACE,54.75MB/s,52ms,43.168.146.243,HK,Asia Pacific,Hong Kong,AS139341
+43.159.4.59,443,SIN,"Amazon.com, Inc.",51.86MB/s,52ms,52.220.178.221,SG,Asia Pacific,Singapore,AS16509
+13.158.86.236,443,NRT,"Amazon.com, Inc.",47.39MB/s,84ms,2406:da14:87e:4301:270b:1101:e558:448b,JP,Asia Pacific,Tokyo,AS16509
+43.207.3.130,443,NRT,"Amazon.com, Inc.",45.39MB/s,82ms,2406:da14:1d09:b900:f37:8bc5:3254:33f,JP,Asia Pacific,Tokyo,AS16509
+52.196.205.49,443,NRT,"Amazon.com, Inc.",45.03MB/s,71ms,2406:da14:1683:dd00:454b:7dcf:93c1:4df4,JP,Asia Pacific,Tokyo,AS16509
+52.74.57.233,443,SIN,"Amazon.com, Inc.",44.58MB/s,81ms,2406:da18:89c:bf00:e533:ce03:6d9f:e9f5,SG,Asia Pacific,Singapore,AS16509
+52.221.95.204,443,SIN,"Amazon.com, Inc.",44.51MB/s,79ms,2406:da18:1dea:2700:e3e7:4e8d:ac1d:ce91,SG,Asia Pacific,Singapore,AS16509
+82.40.33.173,443,NRT,Prime Security Corp.,43.79MB/s,69ms,82.40.33.173,JP,Asia Pacific,Tokyo,AS400618
+52.198.221.45,443,NRT,"Amazon.com, Inc.",43.06MB/s,83ms,2406:da14:1e73:8f00:2502:37a:c43b:c927,JP,Asia Pacific,Tokyo,AS16509
+47.129.165.224,443,SIN,"Amazon.com, Inc.",42.76MB/s,79ms,2406:da18:18b1:b900:4b81:291d:9d86:9813,SG,Asia Pacific,Singapore,AS16509
+35.76.182.41,443,NRT,"Amazon.com, Inc.",42.27MB/s,82ms,2406:da14:1d8e:1100:ee00:316a:aa13:dbe5,JP,Asia Pacific,Tokyo,AS16509
+52.197.8.147,443,NRT,"Amazon.com, Inc.",42.03MB/s,77ms,2406:da14:f75:5300:c890:53f3:682a:2d7d,JP,Asia Pacific,Tokyo,AS16509
+43.159.0.16,443,JED,"Tencent Building, Kejizhongyi Avenue",41.97MB/s,52ms,43.164.65.152,SA,Middle East,Jeddah,AS132203
+8.217.171.151,8443,HKG,"Alibaba (US) Technology Co., Ltd.",41.95MB/s,35ms,8.217.171.151,HK,Asia Pacific,Hong Kong,AS45102
+43.159.1.102,443,JED,"Tencent Building, Kejizhongyi Avenue",41.61MB/s,51ms,43.164.64.45,SA,Middle East,Jeddah,AS132203
+35.77.89.19,443,NRT,"Amazon.com, Inc.",41.49MB/s,83ms,2406:da14:1915:600:e88a:653a:4f34:a4b,JP,Asia Pacific,Tokyo,AS16509
+43.202.32.50,443,ICN,"Amazon.com, Inc.",41.25MB/s,104ms,2406:da12:eec:af00:32df:26a0:dba8:fd96,KR,Asia Pacific,Seoul,AS16509
+56.10.21.30,443,SIN,"Amazon.com, Inc.",41.06MB/s,76ms,2406:da18:c35:e200:73f4:8669:dcbc:4bfe,SG,Asia Pacific,Singapore,AS16509
+54.251.196.199,443,SIN,"Amazon.com, Inc.",40.98MB/s,77ms,2406:da18:cf3:ea00:bc19:fb4:625c:8b2,SG,Asia Pacific,Singapore,AS16509
+18.139.34.204,443,SIN,"Amazon.com, Inc.",40.91MB/s,77ms,2406:da18:1e13:d100:516b:c815:ab9b:e3a2,SG,Asia Pacific,Singapore,AS16509
+140.235.96.10,443,HKG,DMIT Cloud Services,40.90MB/s,52ms,2403:18c0:4:295:be24:11ff:fedc:777a,HK,Asia Pacific,Hong Kong,AS906
+43.159.5.103,443,JED,"Tencent Building, Kejizhongyi Avenue",40.81MB/s,51ms,43.164.64.13,SA,Middle East,Jeddah,AS132203
+56.69.220.234,443,SIN,"Amazon.com, Inc.",40.23MB/s,86ms,2406:da10:849a:a401:48c7:b5a5:c25c:229a,MY,Asia Pacific,Singapore,AS16509
+140.235.96.9,443,HKG,DMIT Cloud Services,40.05MB/s,51ms,2403:18c0:4:21e:be24:11ff:fe6d:ac83,HK,Asia Pacific,Hong Kong,AS906
+47.243.244.198,8443,HKG,"Alibaba (US) Technology Co., Ltd.",39.99MB/s,51ms,47.243.244.198,HK,Asia Pacific,Hong Kong,AS45102
+56.69.80.248,443,SIN,"Amazon.com, Inc.",39.16MB/s,92ms,2406:da10:8c1c:2f01:c0c:2c11:e84d:129,MY,Asia Pacific,Singapore,AS16509
+52.221.110.122,443,SIN,"Amazon.com, Inc.",39.13MB/s,79ms,52.221.110.122,SG,Asia Pacific,Singapore,AS16509
+52.198.181.9,443,NRT,"Amazon.com, Inc.",38.55MB/s,82ms,2406:da14:1c49:a800:5a00:a7c:9c79:bbd7,JP,Asia Pacific,Tokyo,AS16509
+185.37.255.77,443,SIN,xTom Pty Ltd,38.45MB/s,84ms,2a11:8080:100::131,SG,Asia Pacific,Singapore,AS8888
+18.179.112.117,443,NRT,"Amazon.com, Inc.",38.30MB/s,81ms,2406:da14:110c:3000:af88:1d1c:7d01:60f,JP,Asia Pacific,Tokyo,AS16509
+13.228.108.205,443,SIN,Akamai Connected Cloud,37.74MB/s,77ms,172.104.191.199,SG,Asia Pacific,Singapore,AS63949
+52.79.247.127,443,ICN,"Amazon.com, Inc.",37.66MB/s,102ms,2406:da12:35a:600:b173:fe16:7202:13c,KR,Asia Pacific,Seoul,AS16509
+13.193.255.97,443,NRT,"Amazon.com, Inc.",36.19MB/s,83ms,2406:da14:afe:5f00:4948:fa4b:7220:5d1f,JP,Asia Pacific,Tokyo,AS16509
+54.248.147.134,443,NRT,"Amazon.com, Inc.",34.93MB/s,84ms,2406:da14:1b78:ff00:84c9:5051:4f95:408,JP,Asia Pacific,Tokyo,AS16509
+16.163.135.61,443,HKG,"Amazon.com, Inc.",34.73MB/s,119ms,2406:da1e:300:3200:84ee:5088:227f:906c,HK,Asia Pacific,Hong Kong,AS16509
+47.131.104.124,443,SIN,"Amazon.com, Inc.",34.08MB/s,78ms,2406:da18:1ddf:2202:1ec1:2a38:cf59:599b,SG,Asia Pacific,Singapore,AS16509
+65.49.237.84,443,NRT,IT7 Networks Inc,33.79MB/s,72ms,65.49.237.84,JP,Asia Pacific,Tokyo,AS25820
+13.209.11.154,443,ICN,"Amazon.com, Inc.",33.71MB/s,101ms,2406:da12:387:7000:8089:d31e:454f:5f36,KR,Asia Pacific,Seoul,AS16509
+54.64.1.93,443,NRT,"Amazon.com, Inc.",33.43MB/s,88ms,2406:da14:11bb:2400:8a6b:328b:3df0:9a94,JP,Asia Pacific,Tokyo,AS16509
+13.112.240.216,443,NRT,"Amazon.com, Inc.",33.12MB/s,80ms,2406:da14:1995:200:b011:dfd5:61c3:3645,JP,Asia Pacific,Tokyo,AS16509
+3.114.102.166,443,NRT,"Amazon.com, Inc.",32.86MB/s,75ms,2406:da14:1542:b400:b242:bd7d:d429:ebc3,JP,Asia Pacific,Tokyo,AS16509
+54.150.122.239,443,NRT,"Amazon.com, Inc.",32.68MB/s,78ms,2406:da14:1a7f:6800:9bf3:7f8b:b3e0:4ce0,JP,Asia Pacific,Tokyo,AS16509
+54.251.164.217,443,SIN,"Amazon.com, Inc.",32.50MB/s,70ms,2406:da18:10b6:b700:3db:9f10:10a6:4e90,SG,Asia Pacific,Singapore,AS16509
+13.193.244.81,443,NRT,"Amazon.com, Inc.",32.36MB/s,88ms,2406:da14:114:1300:1b14:88aa:680f:5fe7,JP,Asia Pacific,Tokyo,AS16509
+35.77.99.213,443,NRT,"Amazon.com, Inc.",32.13MB/s,72ms,2406:da14:a25:bc00:98a9:bc54:7e73:e948,JP,Asia Pacific,Tokyo,AS16509
+35.76.50.236,443,NRT,"Amazon.com, Inc.",31.78MB/s,79ms,2406:da14:16b9:5600:d040:2c97:60e6:35d6,JP,Asia Pacific,Tokyo,AS16509
+46.51.238.92,443,NRT,"Amazon.com, Inc.",31.77MB/s,81ms,2406:da14:1b4a:f200:c60b:3188:5e5e:5991,JP,Asia Pacific,Tokyo,AS16509
+54.150.192.0,443,NRT,"Amazon.com, Inc.",31.66MB/s,74ms,2406:da14:95a:5c00:999c:7220:9a2a:f8d3,JP,Asia Pacific,Tokyo,AS16509
+18.140.52.118,443,SIN,"Amazon.com, Inc.",31.59MB/s,79ms,2406:da18:12e9:8b01:6903:7c9c:24be:227d,SG,Asia Pacific,Singapore,AS16509
+13.251.41.126,443,SIN,"Amazon.com, Inc.",30.88MB/s,70ms,2406:da18:765:c502:5c69:aa29:a36f:3da4,SG,Asia Pacific,Singapore,AS16509
+47.128.148.229,443,SIN,"Amazon.com, Inc.",30.80MB/s,81ms,2406:da18:54a:6f00:aff1:5714:1838:b67d,SG,Asia Pacific,Singapore,AS16509
+13.193.78.117,443,NRT,"Amazon.com, Inc.",30.65MB/s,85ms,2406:da14:185f:8b00:95c5:f9ff:9ab6:52fa,JP,Asia Pacific,Tokyo,AS16509
+52.198.221.61,443,NRT,"Amazon.com, Inc.",30.48MB/s,80ms,2406:da14:616:9700:28dc:211c:4f99:7051,JP,Asia Pacific,Tokyo,AS16509
+47.131.26.77,443,SIN,"Amazon.com, Inc.",30.41MB/s,79ms,2406:da18:765:c500:3fb8:5ecd:2f42:d18b,SG,Asia Pacific,Singapore,AS16509
+54.169.162.186,443,SIN,"Amazon.com, Inc.",30.30MB/s,90ms,2406:da18:dc9:8500:99f7:e98a:1456:8f98,SG,Asia Pacific,Singapore,AS16509
+13.193.34.121,443,NRT,"Amazon.com, Inc.",30.17MB/s,79ms,2406:da14:c9a:a000:b985:da5b:5fcd:ca78,JP,Asia Pacific,Tokyo,AS16509
+56.69.228.60,443,SIN,"Amazon.com, Inc.",30.17MB/s,83ms,2406:da10:8a07:c901:3acc:a507:f68d:8b4c,MY,Asia Pacific,Singapore,AS16509
+54.199.129.8,443,NRT,"Amazon.com, Inc.",30.15MB/s,81ms,2406:da14:1f66:8d00:f03c:1c5e:1cd4:b0e6,JP,Asia Pacific,Tokyo,AS16509
+54.151.178.12,443,SIN,"Amazon.com, Inc.",29.75MB/s,83ms,2406:da18:14f8:a300:25fe:3365:3d36:9073,SG,Asia Pacific,Singapore,AS16509
+52.68.208.158,443,NRT,"Amazon.com, Inc.",29.74MB/s,83ms,2406:da14:1939:b000:8fcf:394a:68c7:92f8,JP,Asia Pacific,Tokyo,AS16509
+13.113.192.247,443,NRT,"Amazon.com, Inc.",29.71MB/s,78ms,2406:da14:4c6:e100:6f1f:4ce5:71cc:dc4e,JP,Asia Pacific,Tokyo,AS16509
+18.143.6.229,443,SIN,"Amazon.com, Inc.",29.55MB/s,75ms,2406:da18:11c3:a00:8f56:8cca:ac26:c54f,SG,Asia Pacific,Singapore,AS16509
+18.138.5.199,443,SIN,"Amazon.com, Inc.",29.22MB/s,84ms,13.250.226.167,SG,Asia Pacific,Singapore,AS16509
+13.250.78.140,443,SIN,"Amazon.com, Inc.",29.07MB/s,81ms,2406:da18:14f6:7301:dea:ff47:f04a:e5c3,SG,Asia Pacific,Singapore,AS16509
+13.158.155.122,443,NRT,"Amazon.com, Inc.",29.05MB/s,82ms,2406:da14:1b7c:eb00:110f:3969:f8:a83e,JP,Asia Pacific,Tokyo,AS16509
+54.250.45.36,443,NRT,"Amazon.com, Inc.",28.93MB/s,82ms,54.250.45.36,JP,Asia Pacific,Tokyo,AS16509
+13.231.43.47,443,NRT,"Amazon.com, Inc.",28.80MB/s,83ms,2406:da14:145a:a900:2701:beb2:9794:ae4b,JP,Asia Pacific,Tokyo,AS16509
+52.193.226.127,443,NRT,"Amazon.com, Inc.",28.79MB/s,73ms,2406:da14:18d8:3600:3665:7189:e564:dd9a,JP,Asia Pacific,Tokyo,AS16509
+3.1.73.6,443,SIN,"Amazon.com, Inc.",28.67MB/s,69ms,2406:da18:679:6f00:2e1b:b747:90a6:19f3,SG,Asia Pacific,Singapore,AS16509
+52.198.21.89,443,NRT,"Amazon.com, Inc.",28.65MB/s,78ms,2406:da14:1e76:5b00:8ef9:d3cb:355a:a960,JP,Asia Pacific,Tokyo,AS16509
+54.251.83.99,443,SIN,"Amazon.com, Inc.",28.60MB/s,81ms,2406:da18:612:f00:bf6:d66f:e54f:1857,SG,Asia Pacific,Singapore,AS16509
+54.95.131.10,443,NRT,"Amazon.com, Inc.",28.56MB/s,81ms,2406:da14:f0a:ae00:626c:6aa0:9cd9:2438,JP,Asia Pacific,Tokyo,AS16509
+54.238.196.51,443,NRT,"Amazon.com, Inc.",28.41MB/s,76ms,54.238.196.51,JP,Asia Pacific,Tokyo,AS16509
+18.142.4.29,443,SIN,"Amazon.com, Inc.",28.29MB/s,83ms,2406:da18:ef1:c800:d534:f5f9:348f:3dca,SG,Asia Pacific,Singapore,AS16509
+52.193.53.17,443,NRT,"Amazon.com, Inc.",28.24MB/s,81ms,2406:da14:1056:a500:749d:4282:b066:bd34,JP,Asia Pacific,Tokyo,AS16509
+13.193.29.106,443,NRT,"Amazon.com, Inc.",28.23MB/s,79ms,2406:da14:1316:c300:bd92:9b12:cd97:a801,JP,Asia Pacific,Tokyo,AS16509
+56.69.130.15,443,SIN,"Amazon.com, Inc.",28.15MB/s,83ms,56.69.130.15,MY,Asia Pacific,Singapore,AS16509
+54.254.209.142,443,SIN,"Amazon.com, Inc.",28.03MB/s,73ms,2406:da18:54c:5500:dc47:ece5:921a:f725,SG,Asia Pacific,Singapore,AS16509
+47.129.144.40,443,SIN,"Amazon.com, Inc.",28.03MB/s,89ms,2406:da18:a0e:2d00:6145:be23:515:9b81,SG,Asia Pacific,Singapore,AS16509
+18.136.43.39,443,SIN,"Amazon.com, Inc.",27.98MB/s,80ms,2406:da18:485:f800:cb38:bc08:b379:3859,SG,Asia Pacific,Singapore,AS16509
+52.192.71.37,443,NRT,"Amazon.com, Inc.",27.79MB/s,80ms,52.192.71.37,JP,Asia Pacific,Tokyo,AS16509
+52.68.244.18,443,NRT,"Amazon.com, Inc.",27.76MB/s,77ms,2406:da14:1946:b500:2c0e:b3d6:25e9:f9bc,JP,Asia Pacific,Tokyo,AS16509
+18.136.76.91,443,SIN,"Amazon.com, Inc.",27.52MB/s,80ms,2406:da18:1ca5:c200:22ca:5ec5:e0dc:9077,SG,Asia Pacific,Singapore,AS16509
+52.197.231.122,443,NRT,"Amazon.com, Inc.",27.43MB/s,77ms,2406:da14:16c8:5900:9db7:3d2b:4252:885,JP,Asia Pacific,Tokyo,AS16509
+13.251.248.21,443,SIN,"Amazon.com, Inc.",27.43MB/s,82ms,2406:da18:dd:8100:a664:e716:3546:aecb,SG,Asia Pacific,Singapore,AS16509
+52.193.23.110,443,NRT,"Amazon.com, Inc.",27.39MB/s,77ms,2406:da14:1ee9:3000:a7f8:9380:1a6b:dfbd,JP,Asia Pacific,Tokyo,AS16509
+35.73.74.254,443,NRT,"Amazon.com, Inc.",27.26MB/s,74ms,2406:da14:a2:4300:1273:2040:77cf:3a17,JP,Asia Pacific,Tokyo,AS16509
+52.76.223.19,443,SIN,"Amazon.com, Inc.",27.24MB/s,83ms,2406:da18:44a:e100:3b98:afb1:1048:8866,SG,Asia Pacific,Singapore,AS16509
+52.69.146.119,443,NRT,"Amazon.com, Inc.",27.04MB/s,85ms,2406:da14:1dd4:3600:692e:c0d0:b0b0:b461,JP,Asia Pacific,Tokyo,AS16509
+47.130.251.39,443,SIN,"Amazon.com, Inc.",27.03MB/s,82ms,47.130.251.39,SG,Asia Pacific,Singapore,AS16509
+47.131.52.162,443,SIN,"Amazon.com, Inc.",26.99MB/s,93ms,2406:da18:1398:1d00:2ffc:6950:17f4:36d5,SG,Asia Pacific,Singapore,AS16509
+13.113.39.190,443,NRT,"Amazon.com, Inc.",26.98MB/s,84ms,2406:da14:dac:5000:c645:8158:377:7230,JP,Asia Pacific,Tokyo,AS16509
+57.182.103.115,443,NRT,"Amazon.com, Inc.",26.96MB/s,84ms,2406:da14:1819:dc00:a36f:6f8b:b884:4f3,JP,Asia Pacific,Tokyo,AS16509
+54.116.249.102,443,ICN,"Amazon.com, Inc.",26.96MB/s,97ms,2406:da12:dcc:b000:a2c0:c656:a598:2d22,KR,Asia Pacific,Seoul,AS16509
+54.255.65.242,443,SIN,"Amazon.com, Inc.",26.94MB/s,83ms,2406:da18:1af9:8300:dced:679f:52b4:446,SG,Asia Pacific,Singapore,AS16509
+52.74.215.197,443,SIN,"Amazon.com, Inc.",26.73MB/s,79ms,2406:da18:f24:9200:6137:9974:b74b:38af,SG,Asia Pacific,Singapore,AS16509
+54.150.234.193,443,NRT,"Amazon.com, Inc.",26.71MB/s,75ms,2406:da14:1692:5100:fb0c:d9ab:78b8:a61b,JP,Asia Pacific,Tokyo,AS16509
+18.182.5.234,443,NRT,"Amazon.com, Inc.",26.64MB/s,81ms,2406:da14:90:8500:f455:a548:5b98:b307,JP,Asia Pacific,Tokyo,AS16509
+13.229.238.125,443,SIN,"Amazon.com, Inc.",26.60MB/s,74ms,2406:da18:93d:8f00:abe4:7bd8:9259:7be1,SG,Asia Pacific,Singapore,AS16509
+13.230.191.90,443,NRT,"Amazon.com, Inc.",26.53MB/s,88ms,2406:da14:53a:f800:76e1:4eee:11af:de4b,JP,Asia Pacific,Tokyo,AS16509
+56.10.67.92,443,SIN,"Amazon.com, Inc.",26.52MB/s,74ms,2406:da18:a75:1000:2679:621:8557:cab1,SG,Asia Pacific,Singapore,AS16509
+18.143.176.50,443,SIN,"Amazon.com, Inc.",26.47MB/s,86ms,18.143.176.50,SG,Asia Pacific,Singapore,AS16509
+52.192.203.169,443,NRT,"Amazon.com, Inc.",26.38MB/s,78ms,2406:da14:68e:f400:a2c8:92b3:cf0:acd4,JP,Asia Pacific,Tokyo,AS16509
+43.206.173.95,443,NRT,"Amazon.com, Inc.",26.37MB/s,78ms,2406:da14:18b3:9700:cf46:29e0:a5c8:a60,JP,Asia Pacific,Tokyo,AS16509
+56.10.99.188,443,SIN,"Amazon.com, Inc.",26.35MB/s,81ms,56.10.99.188,SG,Asia Pacific,Singapore,AS16509
+54.255.213.36,443,SIN,"Amazon.com, Inc.",26.34MB/s,79ms,2406:da18:5a8:7a00:90aa:f8f2:9e9b:7f5c,SG,Asia Pacific,Singapore,AS16509
+35.73.153.172,443,NRT,"Amazon.com, Inc.",26.33MB/s,81ms,2406:da14:197e:a700:c6:6434:8ebb:1f8b,JP,Asia Pacific,Tokyo,AS16509
+54.64.82.109,443,NRT,"Amazon.com, Inc.",26.30MB/s,81ms,2406:da14:1d67:9b00:4661:aaf2:78c1:3a65,JP,Asia Pacific,Tokyo,AS16509
+54.254.42.64,443,SIN,"Amazon.com, Inc.",26.28MB/s,89ms,2406:da18:d51:c400:831f:37f4:f9bf:ad4a,SG,Asia Pacific,Singapore,AS16509
+13.193.183.187,443,NRT,"Amazon.com, Inc.",26.23MB/s,76ms,2406:da14:6b8:c600:7f5a:f76d:f4df:a833,JP,Asia Pacific,Tokyo,AS16509
+16.79.65.164,443,CGK,"Amazon.com, Inc.",26.22MB/s,85ms,16.79.65.164,ID,Asia Pacific,Jakarta,AS16509
+54.169.108.176,443,SIN,"Amazon.com, Inc.",26.20MB/s,81ms,2406:da18:1d17:a800:a72d:6f5e:7717:dff3,SG,Asia Pacific,Singapore,AS16509
+35.75.195.185,443,NRT,"Amazon.com, Inc.",26.19MB/s,76ms,2406:da14:174c:8c00:195b:d98a:d5f8:8ec9,JP,Asia Pacific,Tokyo,AS16509
+13.230.4.244,443,NRT,"Amazon.com, Inc.",26.11MB/s,79ms,2406:da14:117a:9600:286f:eec5:65b5:3fee,JP,Asia Pacific,Tokyo,AS16509
+18.141.120.212,443,SIN,"Amazon.com, Inc.",25.89MB/s,75ms,2406:da18:f40:8300:7878:b9c:cdd8:d6f1,SG,Asia Pacific,Singapore,AS16509
+142.111.143.202,443,SIN,Evoxt Sdn. Bhd.,25.89MB/s,90ms,2400:8d60:3::1:c478:c04,MY,Asia Pacific,Singapore,AS149440
+52.196.107.77,443,NRT,"Amazon.com, Inc.",25.82MB/s,78ms,2406:da14:16c2:ef00:dbc9:1188:e5a0:fbf4,JP,Asia Pacific,Tokyo,AS16509
+13.115.81.109,443,NRT,"Amazon.com, Inc.",25.76MB/s,79ms,13.115.81.109,JP,Asia Pacific,Tokyo,AS16509
+18.180.215.49,443,NRT,"Amazon.com, Inc.",25.76MB/s,84ms,2406:da14:786:6c02:ffda:ada0:17c0:f33a,JP,Asia Pacific,Tokyo,AS16509
+54.251.138.69,443,SIN,"Amazon.com, Inc.",25.74MB/s,87ms,2406:da18:1dfe:c000:e5f1:22be:31e6:9708,SG,Asia Pacific,Singapore,AS16509
+43.206.63.3,443,NRT,"Amazon.com, Inc.",25.71MB/s,71ms,2406:da14:736:3200:4531:5006:465e:1eb1,JP,Asia Pacific,Tokyo,AS16509
+166.1.249.233,443,SIN,Evoxt Sdn. Bhd.,25.65MB/s,82ms,2400:8d60:3::1:720:5c63,MY,Asia Pacific,Singapore,AS149440
+52.221.247.151,443,SIN,"Amazon.com, Inc.",25.59MB/s,79ms,2406:da18:1d19:c400:be4d:478:9ee6:8230,SG,Asia Pacific,Singapore,AS16509
+54.169.160.63,443,SIN,"Amazon.com, Inc.",25.56MB/s,86ms,54.169.160.63,SG,Asia Pacific,Singapore,AS16509
+56.69.139.189,443,SIN,"Amazon.com, Inc.",25.53MB/s,82ms,56.69.139.189,MY,Asia Pacific,Singapore,AS16509
+13.215.233.129,443,SIN,"Amazon.com, Inc.",25.52MB/s,85ms,2406:da18:168d:b600:232a:a3c:371a:9c8e,SG,Asia Pacific,Singapore,AS16509
+54.199.45.125,443,NRT,"Amazon.com, Inc.",25.42MB/s,75ms,2406:da14:ea2:8f00:b5ad:b2ed:5b82:17b5,JP,Asia Pacific,Tokyo,AS16509
+56.68.86.200,443,SIN,"Amazon.com, Inc.",25.37MB/s,82ms,2406:da10:812b:6301:2609:645:bdcb:5c50,MY,Asia Pacific,Singapore,AS16509
+52.74.88.44,443,SIN,"Amazon.com, Inc.",25.33MB/s,80ms,2406:da18:170c:ed00:b16f:5ec7:565:aba2,SG,Asia Pacific,Singapore,AS16509
+18.138.10.11,443,SIN,"Amazon.com, Inc.",25.32MB/s,78ms,2406:da18:1a84:5600:2c82:a22a:4965:dfb0,SG,Asia Pacific,Singapore,AS16509
+56.69.125.222,443,SIN,"Amazon.com, Inc.",25.23MB/s,95ms,2406:da10:8c1c:2f00:768:e25d:70dd:bc59,MY,Asia Pacific,Singapore,AS16509
+52.194.10.126,443,NRT,"Amazon.com, Inc.",25.21MB/s,79ms,2406:da14:1980:a600:ed3c:20e9:2857:1f62,JP,Asia Pacific,Tokyo,AS16509
+13.250.194.101,443,SIN,"Amazon.com, Inc.",25.14MB/s,84ms,2406:da18:eed:5900:411e:be83:4b91:258,SG,Asia Pacific,Singapore,AS16509
+52.199.242.81,443,NRT,"Amazon.com, Inc.",25.12MB/s,78ms,2406:da14:1ed7:2701:a859:cbfa:207f:9b96,JP,Asia Pacific,Tokyo,AS16509
+54.65.155.88,443,NRT,"Amazon.com, Inc.",25.06MB/s,80ms,2406:da14:ace:f900:562d:f396:a5d2:44f7,JP,Asia Pacific,Tokyo,AS16509
+18.140.167.123,443,SIN,"Amazon.com, Inc.",24.96MB/s,80ms,18.140.167.123,SG,Asia Pacific,Singapore,AS16509
+35.73.225.35,443,NRT,"Amazon.com, Inc.",24.95MB/s,78ms,2406:da14:1423:3e62:2a08:77eb:f41c:30ae,JP,Asia Pacific,Tokyo,AS16509
+56.69.28.105,443,SIN,"Amazon.com, Inc.",24.89MB/s,89ms,2406:da10:8822:4601:70a2:b394:b56:71fe,MY,Asia Pacific,Singapore,AS16509
+54.251.33.241,443,SIN,"Amazon.com, Inc.",24.88MB/s,75ms,2406:da18:1fb1:4900:f0d6:f1c6:65ec:ef20,SG,Asia Pacific,Singapore,AS16509
+52.77.202.153,443,SIN,"Amazon.com, Inc.",24.75MB/s,76ms,2406:da18:11d6:9a00:f47a:35f4:314:c18d,SG,Asia Pacific,Singapore,AS16509
+47.131.186.184,443,SIN,"Amazon.com, Inc.",24.72MB/s,71ms,2406:da18:5a3:4500:43ac:3ef:d2f1:e68d,SG,Asia Pacific,Singapore,AS16509
+13.251.78.142,443,SIN,"Amazon.com, Inc.",24.67MB/s,82ms,2406:da18:1d3b:3601:5a55:af0e:175b:9e8a,SG,Asia Pacific,Singapore,AS16509
+13.250.17.35,443,SIN,"Amazon.com, Inc.",24.66MB/s,74ms,2406:da18:815:1600:e93a:420b:5ca0:f251,SG,Asia Pacific,Singapore,AS16509
+18.141.83.255,443,SIN,"Amazon.com, Inc.",24.60MB/s,82ms,2406:da18:17ae:8400:3618:891:a1a5:2e87,SG,Asia Pacific,Singapore,AS16509
+16.79.55.124,443,CGK,"Amazon.com, Inc.",24.36MB/s,91ms,16.79.55.124,ID,Asia Pacific,Jakarta,AS16509
+54.169.178.67,443,SIN,"Amazon.com, Inc.",24.33MB/s,92ms,2406:da18:810:1001:4471:eb0e:cd1a:78ea,SG,Asia Pacific,Singapore,AS16509
+13.158.67.114,443,NRT,"Amazon.com, Inc.",24.30MB/s,83ms,13.158.67.114,JP,Asia Pacific,Tokyo,AS16509
+52.192.200.147,443,NRT,"Amazon.com, Inc.",24.23MB/s,85ms,52.192.200.147,JP,Asia Pacific,Tokyo,AS16509
+56.69.166.151,443,SIN,"Amazon.com, Inc.",24.18MB/s,84ms,56.69.166.151,MY,Asia Pacific,Singapore,AS16509
+54.169.121.194,443,SIN,"Amazon.com, Inc.",24.17MB/s,79ms,2406:da18:1f39:900:95dd:2d96:447e:a41c,SG,Asia Pacific,Singapore,AS16509
+57.180.137.107,443,NRT,"Amazon.com, Inc.",24.16MB/s,70ms,2406:da14:7b1:9600:5e7:a2e1:704e:c365,JP,Asia Pacific,Tokyo,AS16509
+54.250.164.93,443,NRT,"Amazon.com, Inc.",24.11MB/s,81ms,2406:da14:680:4800:84c:17d1:b717:ef55,JP,Asia Pacific,Tokyo,AS16509
+54.238.42.56,443,NRT,"Amazon.com, Inc.",23.93MB/s,80ms,2406:da14:1f70:1200:8a7b:29c1:eee7:2967,JP,Asia Pacific,Tokyo,AS16509
+54.64.190.109,443,NRT,"Amazon.com, Inc.",23.89MB/s,71ms,2406:da14:807:d200:843d:4b08:4fa7:9a24,JP,Asia Pacific,Tokyo,AS16509
+54.178.93.206,443,NRT,"Amazon.com, Inc.",23.84MB/s,78ms,2406:da14:1b1e:4900:249c:2432:1b3c:e428,JP,Asia Pacific,Tokyo,AS16509
+3.1.107.81,443,SIN,"Amazon.com, Inc.",23.71MB/s,78ms,2406:da18:e94:d100:446c:2662:da64:b500,SG,Asia Pacific,Singapore,AS16509
+18.136.135.61,443,SIN,"Amazon.com, Inc.",23.69MB/s,78ms,2406:da18:19e6:6200:ee55:b182:cca6:1f1b,SG,Asia Pacific,Singapore,AS16509
+18.143.138.221,443,SIN,"Amazon.com, Inc.",23.67MB/s,87ms,2406:da18:644:5900:e32c:b40e:7c3d:ebec,SG,Asia Pacific,Singapore,AS16509
+13.114.147.6,443,NRT,"Amazon.com, Inc.",23.56MB/s,86ms,2406:da14:cf4:8e00:e9b9:9eb9:c784:4b4a,JP,Asia Pacific,Tokyo,AS16509
+52.69.2.225,443,NRT,"Amazon.com, Inc.",23.55MB/s,71ms,2406:da14:14ed:3e00:58ef:4602:c8ab:2969,JP,Asia Pacific,Tokyo,AS16509
+13.115.210.166,443,NRT,"Amazon.com, Inc.",23.45MB/s,78ms,2406:da14:1cd1:c600:2765:38a3:2a41:ecf3,JP,Asia Pacific,Tokyo,AS16509
+56.69.138.199,443,SIN,"Amazon.com, Inc.",23.42MB/s,87ms,2406:da10:8941:8d00:c2cb:8a4f:7bbd:cc1f,MY,Asia Pacific,Singapore,AS16509
+52.197.210.248,443,NRT,"Amazon.com, Inc.",23.41MB/s,76ms,2406:da14:18dd:c200:e86d:7b85:bc1f:7ad2,JP,Asia Pacific,Tokyo,AS16509
+13.250.25.128,443,SIN,"Amazon.com, Inc.",23.41MB/s,80ms,2406:da18:11aa:2a00:e54f:2d36:39d7:c479,SG,Asia Pacific,Singapore,AS16509
+54.65.156.109,443,NRT,"Amazon.com, Inc.",23.33MB/s,74ms,2406:da14:1f42:8600:7cb:822b:c17a:d654,JP,Asia Pacific,Tokyo,AS16509
+43.207.97.93,443,NRT,"Amazon.com, Inc.",23.28MB/s,82ms,2406:da14:1607:8600:23c2:b054:ed08:173e,JP,Asia Pacific,Tokyo,AS16509
+13.114.29.127,443,NRT,"Amazon.com, Inc.",23.26MB/s,79ms,2406:da14:157f:3000:dca4:c391:bac3:7267,JP,Asia Pacific,Tokyo,AS16509
+13.230.116.246,443,NRT,"Amazon.com, Inc.",23.21MB/s,82ms,2406:da14:189d:6000:1759:c60e:1a06:ab61,JP,Asia Pacific,Tokyo,AS16509
+13.215.95.201,443,SIN,"Amazon.com, Inc.",23.21MB/s,89ms,2406:da18:cb5:8400:39b4:f453:30f7:105b,SG,Asia Pacific,Singapore,AS16509
+54.199.212.50,443,NRT,"Amazon.com, Inc.",23.17MB/s,74ms,2406:da14:1478:c600:fee3:b613:ca96:7a2b,JP,Asia Pacific,Tokyo,AS16509
+54.180.233.241,443,ICN,"Amazon.com, Inc.",23.02MB/s,104ms,54.180.233.241,KR,Asia Pacific,Seoul,AS16509
+13.231.121.29,443,NRT,"Amazon.com, Inc.",22.99MB/s,88ms,2406:da14:1305:4c00:8c4d:2959:2d76:7c52,JP,Asia Pacific,Tokyo,AS16509
+47.130.88.120,443,SIN,"Amazon.com, Inc.",22.86MB/s,82ms,2406:da18:153e:d000:4f41:943:20b6:7550,SG,Asia Pacific,Singapore,AS16509
+35.74.153.167,443,NRT,"Amazon.com, Inc.",22.71MB/s,74ms,2406:da14:1100:db00:2521:d368:11b7:bd31,JP,Asia Pacific,Tokyo,AS16509
+13.114.61.209,443,NRT,"Amazon.com, Inc.",22.65MB/s,69ms,2406:da14:1d6f:2e00:f2f6:1ed7:1dbc:f349,JP,Asia Pacific,Tokyo,AS16509
+13.115.231.200,443,NRT,"Amazon.com, Inc.",22.53MB/s,83ms,2406:da14:d66:ae00:48a8:358d:166c:8afc,JP,Asia Pacific,Tokyo,AS16509
+13.215.229.246,443,SIN,"Amazon.com, Inc.",22.46MB/s,79ms,2406:da18:f0c:ff00:4d86:1949:5c85:cb2e,SG,Asia Pacific,Singapore,AS16509
+54.251.118.184,443,SIN,"Amazon.com, Inc.",22.31MB/s,70ms,2406:da18:14ff:5400:4638:4833:8836:1a2b,SG,Asia Pacific,Singapore,AS16509
+18.181.95.150,443,NRT,"Amazon.com, Inc.",22.19MB/s,82ms,2406:da14:5e7:d600:2b07:2673:5090:63b,JP,Asia Pacific,Tokyo,AS16509
+13.193.118.0,443,NRT,"Amazon.com, Inc.",22.17MB/s,83ms,2406:da14:1c21:de00:d3a7:c84b:fb98:c2c5,JP,Asia Pacific,Tokyo,AS16509
+13.250.129.244,443,SIN,"Amazon.com, Inc.",21.99MB/s,79ms,2406:da18:1504:5000:44d2:f597:ca4:f8b5,SG,Asia Pacific,Singapore,AS16509
+13.250.70.157,443,SIN,"Amazon.com, Inc.",21.93MB/s,87ms,2406:da18:82b:6a00:a46d:3323:5a67:a757,SG,Asia Pacific,Singapore,AS16509
+13.228.50.54,443,SIN,"Amazon.com, Inc.",21.92MB/s,75ms,2406:da18:1b76:d600:6e73:d4eb:9b07:1fce,SG,Asia Pacific,Singapore,AS16509
+52.221.255.160,443,SIN,"Amazon.com, Inc.",21.88MB/s,79ms,2406:da18:19a3:3f00:dc7:371f:5d5e:2b98,SG,Asia Pacific,Singapore,AS16509
+13.158.140.79,443,NRT,"Amazon.com, Inc.",21.83MB/s,79ms,2406:da14:6:2a00:ae45:e2a9:9c94:f074,JP,Asia Pacific,Tokyo,AS16509
+13.231.38.1,443,NRT,"Amazon.com, Inc.",21.79MB/s,85ms,2406:da14:ba6:3900:f60f:627e:88dd:696,JP,Asia Pacific,Tokyo,AS16509
+52.192.191.112,443,NRT,"Amazon.com, Inc.",21.77MB/s,85ms,2406:da14:1ad2:7200:19e1:a3cd:81a1:381b,JP,Asia Pacific,Tokyo,AS16509
+15.232.240.76,443,CGK,"Amazon.com, Inc.",21.63MB/s,92ms,2406:da19:c7e:b600:f7d9:17f6:f4a7:ce34,ID,Asia Pacific,Jakarta,AS16509
+52.192.3.41,443,NRT,"Amazon.com, Inc.",21.55MB/s,78ms,2406:da14:166a:b200:16eb:da35:2f9e:6652,JP,Asia Pacific,Tokyo,AS16509
+54.64.164.113,443,NRT,"Amazon.com, Inc.",21.48MB/s,73ms,2406:da14:8c7:4a00:8262:71b0:e083:8182,JP,Asia Pacific,Tokyo,AS16509
+54.249.0.158,443,NRT,"Amazon.com, Inc.",21.46MB/s,72ms,54.249.0.158,JP,Asia Pacific,Tokyo,AS16509
+52.74.137.25,443,SIN,"Amazon.com, Inc.",21.38MB/s,71ms,2406:da18:1b21:ec00:1191:1568:1304:ae6b,SG,Asia Pacific,Singapore,AS16509
+16.76.109.165,443,NRT,"Amazon.com, Inc.",21.30MB/s,83ms,2406:da14:1b0a:dc00:9d69:b936:151c:b85b,JP,Asia Pacific,Tokyo,AS16509
+52.199.57.10,443,NRT,"Amazon.com, Inc.",21.29MB/s,81ms,2406:da14:1b03:8b00:c4b6:3717:5b81:bea4,JP,Asia Pacific,Tokyo,AS16509
+13.124.165.69,443,ICN,"Amazon.com, Inc.",21.09MB/s,102ms,2406:da12:a77:4d00:a59f:f499:a0a2:4fa1,KR,Asia Pacific,Seoul,AS16509
+13.251.155.142,443,SIN,"Amazon.com, Inc.",21.03MB/s,75ms,2406:da18:1a96:f00:b29:a9c5:5b21:4408,SG,Asia Pacific,Singapore,AS16509
+43.165.179.157,443,NRT,"Tencent Building, Kejizhongyi Avenue",20.98MB/s,57ms,43.165.179.157,JP,Asia Pacific,Tokyo,AS132203
+54.249.160.228,443,NRT,"Amazon.com, Inc.",20.90MB/s,76ms,2406:da14:6eb:4500:67d1:dab9:56ca:3b61,JP,Asia Pacific,Tokyo,AS16509
+13.115.2.242,443,NRT,"Amazon.com, Inc.",20.82MB/s,80ms,2406:da14:ee:f900:990a:cda7:d611:52d3,JP,Asia Pacific,Tokyo,AS16509
+43.200.62.229,443,ICN,"Amazon.com, Inc.",20.82MB/s,104ms,2406:da12:d1d:b001:7dfd:8ce2:3dd3:6bde,KR,Asia Pacific,Seoul,AS16509
+13.112.150.37,443,NRT,"Amazon.com, Inc.",20.81MB/s,78ms,2406:da14:181f:8e00:eb31:2af:da28:3ba6,JP,Asia Pacific,Tokyo,AS16509
+43.200.244.19,443,ICN,"Amazon.com, Inc.",20.72MB/s,99ms,2406:da12:9b8:2f00:3274:f499:1418:ba8e,KR,Asia Pacific,Seoul,AS16509
+54.251.247.17,443,SIN,"Amazon.com, Inc.",20.70MB/s,75ms,2406:da18:137b:c900:1a25:bbaf:f3d6:6084,SG,Asia Pacific,Singapore,AS16509
+177.201.229.13,443,HKG,"Hong Kong Communications International Co., Limited",20.54MB/s,42ms,177.201.229.13,HK,Asia Pacific,Hong Kong,AS140227
+54.238.199.145,443,NRT,"Amazon.com, Inc.",20.46MB/s,75ms,2406:da14:1f93:2000:f04:9f46:159f:8675,JP,Asia Pacific,Tokyo,AS16509
+57.180.157.153,443,NRT,"Amazon.com, Inc.",20.43MB/s,76ms,2406:da14:13c8:8000:1892:d86d:68cb:ca68,JP,Asia Pacific,Tokyo,AS16509
+3.37.58.69,443,ICN,"Amazon.com, Inc.",20.43MB/s,106ms,2406:da12:36a:7c00:cf7a:3e86:e4f3:7616,KR,Asia Pacific,Seoul,AS16509
+54.250.6.134,443,NRT,"Amazon.com, Inc.",20.40MB/s,75ms,2406:da14:13b5:1a00:bd2a:1889:d795:d750,JP,Asia Pacific,Tokyo,AS16509
+13.231.101.99,443,NRT,"Amazon.com, Inc.",20.35MB/s,74ms,2406:da14:17ac:2e00:484f:f851:93f7:949c,JP,Asia Pacific,Tokyo,AS16509
+47.57.3.232,443,SJC,"Alibaba (US) Technology Co., Ltd.",20.34MB/s,53ms,47.254.85.19,US,North America,San Jose,AS45102
+52.78.141.133,443,ICN,"Amazon.com, Inc.",20.33MB/s,103ms,2406:da12:4ca:db00:c1ab:7f18:8eb7:cfcc,KR,Asia Pacific,Seoul,AS16509
+54.65.168.160,443,NRT,"Amazon.com, Inc.",20.25MB/s,79ms,2406:da14:1c92:ad00:4bf2:86af:4918:f21e,JP,Asia Pacific,Tokyo,AS16509
+18.138.139.253,443,SIN,"Amazon.com, Inc.",20.24MB/s,72ms,2406:da18:1902:ee00:9b2b:e1ad:bced:dc07,SG,Asia Pacific,Singapore,AS16509
+13.215.195.63,443,SIN,"Amazon.com, Inc.",20.24MB/s,74ms,2406:da18:14f6:7300:df65:7a83:ba59:c2c0,SG,Asia Pacific,Singapore,AS16509
+13.214.214.72,443,SIN,"Amazon.com, Inc.",19.82MB/s,78ms,2406:da18:932:5d00:86ce:7d58:24fa:151,SG,Asia Pacific,Singapore,AS16509
+18.178.146.152,443,NRT,"Amazon.com, Inc.",19.66MB/s,75ms,2406:da14:1fc6:1400:c118:dfc8:1b67:db72,JP,Asia Pacific,Tokyo,AS16509
+52.198.64.138,443,NRT,"Amazon.com, Inc.",19.50MB/s,83ms,2406:da14:ea7:be00:4ae7:52cc:6388:fb9b,JP,Asia Pacific,Tokyo,AS16509
+18.163.218.170,443,HKG,"Amazon.com, Inc.",19.35MB/s,122ms,43.198.110.245,HK,Asia Pacific,Hong Kong,AS16509
+35.72.89.14,443,NRT,"Amazon.com, Inc.",19.30MB/s,77ms,2406:da14:99:b800:c8f2:598:ecb1:97c5,JP,Asia Pacific,Tokyo,AS16509
+13.212.33.11,443,SIN,"Amazon.com, Inc.",19.30MB/s,82ms,2406:da18:1db0:bc00:3f21:95ac:f96d:19c1,SG,Asia Pacific,Singapore,AS16509
+13.231.198.184,443,NRT,"Amazon.com, Inc.",19.27MB/s,74ms,2406:da14:14c3:5400:69cd:fea2:74b7:8e66,JP,Asia Pacific,Tokyo,AS16509
+52.78.204.54,443,ICN,"Amazon.com, Inc.",19.26MB/s,105ms,2406:da12:a53:8500:d3e5:5661:d000:f05b,KR,Asia Pacific,Seoul,AS16509
+43.201.27.4,443,ICN,"Amazon.com, Inc.",19.24MB/s,89ms,2406:da12:dbf:b5f9:200a:dfc8:ca08:4abd,KR,Asia Pacific,Seoul,AS16509
+52.79.188.223,443,ICN,"Amazon.com, Inc.",19.22MB/s,98ms,2406:da12:3b2:4d00:b9f2:907a:ccb4:2671,KR,Asia Pacific,Seoul,AS16509
+54.150.61.231,443,NRT,"Amazon.com, Inc.",19.21MB/s,81ms,2406:da14:87a:3f00:21b1:8d92:90c:b344,JP,Asia Pacific,Tokyo,AS16509
+43.206.81.37,443,NRT,"Amazon.com, Inc.",19.12MB/s,76ms,2406:da14:c46:d300:398e:c90a:f23c:60b2,JP,Asia Pacific,Tokyo,AS16509
+13.193.195.4,443,NRT,"Amazon.com, Inc.",19.06MB/s,82ms,2406:da14:19e7:3e00:a000:36a9:f6f7:5e57,JP,Asia Pacific,Tokyo,AS16509
+43.213.47.40,443,TPE,"Amazon.com, Inc.",19.06MB/s,106ms,2406:da1c:8abf:c000:1936:c43d:8f0:11bf,TW,Asia Pacific,Taipei,AS16509
+35.72.236.171,443,NRT,"Amazon.com, Inc.",19.00MB/s,74ms,2406:da14:14c3:8201:6b83:d662:9e0e:3f9a,JP,Asia Pacific,Tokyo,AS16509
+35.75.115.66,443,NRT,"Amazon.com, Inc.",18.67MB/s,71ms,2406:da14:120b:e700:2a47:bc6a:7edf:2334,JP,Asia Pacific,Tokyo,AS16509
+108.165.100.231,443,HKG,Evoxt Sdn. Bhd.,18.49MB/s,106ms,2400:8d60:6::8a8:d083,HK,Asia Pacific,Hong Kong,AS149440
+15.164.118.107,443,ICN,"Amazon.com, Inc.",18.41MB/s,101ms,2406:da12:73:7300:d51f:a113:b9ec:905e,KR,Asia Pacific,Seoul,AS16509
+45.194.21.227,443,HKG,"Hong Kong Communications International Co., Limited",18.36MB/s,32ms,45.194.21.227,HK,Asia Pacific,Hong Kong,AS140227
+56.69.39.99,443,SIN,"Amazon.com, Inc.",18.17MB/s,79ms,2406:da10:8aaa:3f00:8862:1b26:165e:9ce7,MY,Asia Pacific,Singapore,AS16509
+52.77.198.6,443,SIN,"Amazon.com, Inc.",17.84MB/s,79ms,2406:da18:384:4200:e5a0:624a:d683:910b,SG,Asia Pacific,Singapore,AS16509
+13.159.123.57,443,NRT,"Amazon.com, Inc.",17.76MB/s,70ms,2406:da14:244:200:e672:81dc:9a97:9ae1,JP,Asia Pacific,Tokyo,AS16509
+52.220.45.17,443,SIN,"Amazon.com, Inc.",17.74MB/s,74ms,2406:da18:ede:7500:3a17:5eb4:86bf:5e0f,SG,Asia Pacific,Singapore,AS16509
+99.83.207.43,443,IAD,"Amazon.com, Inc.",17.63MB/s,88ms,13.223.185.219,US,North America,Ashburn,AS14618
+52.69.89.161,443,NRT,"Amazon.com, Inc.",17.60MB/s,87ms,2406:da14:18ca:2a00:c459:7cab:2ea6:2260,JP,Asia Pacific,Tokyo,AS16509
+43.198.19.247,443,HKG,"Amazon.com, Inc.",17.58MB/s,120ms,2406:da1e:58a:3b02:bdf3:bbb2:943:68ee,HK,Asia Pacific,Hong Kong,AS16509
+47.128.151.121,443,SIN,"Amazon.com, Inc.",17.57MB/s,83ms,2406:da18:1f8c:c300:74b5:607c:19c6:c489,SG,Asia Pacific,Singapore,AS16509
+18.180.56.83,443,NRT,"Amazon.com, Inc.",17.42MB/s,82ms,2406:da14:964:c500:da4e:9d71:646f:f212,JP,Asia Pacific,Tokyo,AS16509
+3.0.0.119,443,SIN,"Amazon.com, Inc.",17.42MB/s,93ms,2406:da18:1c45:7101:8c3e:8f17:9d3a:55a5,SG,Asia Pacific,Singapore,AS16509
+13.125.9.223,443,ICN,"Amazon.com, Inc.",17.32MB/s,109ms,2406:da12:e87:2400:7036:91c3:6568:fed6,KR,Asia Pacific,Seoul,AS16509
+18.162.228.199,443,HKG,"Amazon.com, Inc.",17.32MB/s,124ms,18.162.228.199,HK,Asia Pacific,Hong Kong,AS16509
+99.83.221.40,443,FRA,"Amazon.com, Inc.",17.13MB/s,83ms,3.124.3.114,DE,Europe,Frankfurt,AS16509
+18.167.61.208,443,HKG,"Amazon.com, Inc.",17.10MB/s,117ms,2406:da1e:3c5:7100:892b:2f91:4bc6:3d3e,HK,Asia Pacific,Hong Kong,AS16509
+15.252.174.226,443,BOM,"Amazon.com, Inc.",17.08MB/s,130ms,2406:da1a:5d5:2800:2902:e2d1:603c:12de,IN,Asia Pacific,Mumbai,AS16509
+13.125.141.213,443,ICN,"Amazon.com, Inc.",17.07MB/s,111ms,2406:da12:b52:c200:d851:87df:419a:13d2,KR,Asia Pacific,Seoul,AS16509
+13.127.87.12,443,BOM,"Amazon.com, Inc.",16.95MB/s,129ms,13.127.87.12,IN,Asia Pacific,Mumbai,AS16509
+43.198.152.251,443,HKG,"Amazon.com, Inc.",16.90MB/s,115ms,43.198.152.251,HK,Asia Pacific,Hong Kong,AS16509
+18.162.207.129,443,HKG,"Amazon.com, Inc.",16.84MB/s,123ms,18.162.207.129,HK,Asia Pacific,Hong Kong,AS16509
+18.162.147.146,443,HKG,"Amazon.com, Inc.",16.54MB/s,124ms,2406:da1e:ac0:a100:af28:49f6:5c32:d3ab,HK,Asia Pacific,Hong Kong,AS16509
+3.36.57.97,443,ICN,"Amazon.com, Inc.",16.51MB/s,105ms,2406:da12:6f0:7100:8b48:8e:5128:58b7,KR,Asia Pacific,Seoul,AS16509
+3.33.178.152,443,FRA,"Amazon.com, Inc.",16.03MB/s,84ms,3.76.138.151,DE,Europe,Frankfurt,AS16509
+13.124.82.163,443,ICN,"Amazon.com, Inc.",16.02MB/s,103ms,2406:da12:d8d:e400:b61:70c4:8bc8:ecc6,KR,Asia Pacific,Seoul,AS16509
+108.165.100.106,443,KIX,"The Constant Company, LLC",15.95MB/s,115ms,2401:c080:3800:2097:5400:5ff:feeb:9e0b,JP,Asia Pacific,Osaka,AS20473
+13.206.67.150,443,BOM,"Amazon.com, Inc.",15.92MB/s,128ms,13.206.67.150,IN,Asia Pacific,Mumbai,AS16509
+52.79.49.235,443,ICN,"Amazon.com, Inc.",15.70MB/s,102ms,2406:da12:e2c:a200:9ff4:5ba4:c5ed:767d,KR,Asia Pacific,Seoul,AS16509
+56.69.239.164,443,SIN,"Amazon.com, Inc.",15.47MB/s,89ms,2406:da10:8346:6401:4bfc:6ed3:4f36:ce78,MY,Asia Pacific,Singapore,AS16509
+50.114.180.119,443,HKG,Evoxt Sdn. Bhd.,15.27MB/s,109ms,2400:8d60:6::637f:ccc8,HK,Asia Pacific,Hong Kong,AS149440
+52.78.15.232,443,ICN,"Amazon.com, Inc.",15.09MB/s,100ms,2406:da12:c2b:6700:a84e:ec9c:86a6:e909,KR,Asia Pacific,Seoul,AS16509
+54.150.177.255,443,NRT,"Amazon.com, Inc.",13.75MB/s,68ms,2406:da14:4d4:7100:2935:5256:b9f3:f04d,JP,Asia Pacific,Tokyo,AS16509
+15.232.127.251,443,CGK,"Amazon.com, Inc.",12.84MB/s,90ms,2406:da19:1fb:1200:61d7:10fe:5a5e:f306,ID,Asia Pacific,Jakarta,AS16509
+56.68.38.72,443,SJC,"Amazon.com, Inc.",12.43MB/s,80ms,56.68.38.72,MY,North America,San Jose,AS16509
+13.193.150.127,443,NRT,"Amazon.com, Inc.",10.95MB/s,85ms,2406:da14:9db:8700:30c6:e392:2815:1a85,JP,Asia Pacific,Tokyo,AS16509
